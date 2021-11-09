@@ -1,3 +1,8 @@
+# Cryptocoin
+
+Is a cryptocurrency application that displays information about various cryptocurriencies. It was built with react, react-router, ant-design and RTK Query for fetching endpoints from RapidApi.
+
+#[Link](https://nervous-leakey-049b37.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
