@@ -2,7 +2,7 @@
 
 Is a cryptocurrency application that displays information about various cryptocurriencies. It was built with react, react-router, ant-design and RTK Query for fetching data from RapidApi.
 
-# [Link](https://nervous-leakey-049b37.netlify.app/)
+# [Link](https://cryptocoin-build.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
